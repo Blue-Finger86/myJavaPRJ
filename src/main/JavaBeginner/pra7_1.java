@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class pra7_1 {
-    // 시작값, 끝값, 증가값을 직접 입력해서 합을 구하는 프로그램을 while로 짜기
+    // 시작값, 끝값, 증가값을 직접 입력해서 합을 구하는 프로그램을 while로 짜기!
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
