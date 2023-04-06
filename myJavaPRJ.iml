@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/Qz" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/Practice" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/JavaBeginner" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/HQ" isTestSource="false" />
     </content>
   </component>
 </module>
