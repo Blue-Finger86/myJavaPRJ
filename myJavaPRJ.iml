@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/JavaBeginner" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/HQ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/Java_JS" isTestSource="false" />
     </content>
   </component>
 </module>
