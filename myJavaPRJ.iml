@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module version="4">
-  <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Qz" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/Qz" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/Practice" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/JavaBeginner" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/HQ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/JavaBeginner" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/Java_JS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/Practice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/Qz" isTestSource="false" />
     </content>
   </component>
 </module>
